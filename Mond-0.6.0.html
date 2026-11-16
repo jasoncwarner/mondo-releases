@@ -1,0 +1,20 @@
+<html><body style="font-family: -apple-system; font-size: 13px">
+<h3>Mondo is now Mond</h3>
+<ul>
+<li>The app is called Mond. It updates in place from Mondo 0.5.0. Your settings, App rules, arrangements, Scenes, quicklinks and shortcuts all carry over.</li>
+<li>Mond moves its folders for you on first launch: Application Support/Mondo becomes Application Support/Mond, and the same for Logs.</li>
+<li>Open at login moves to Mond if it was on. If Mond doesn&#x27;t open at login, turn on &quot;Open Mond at login&quot; in Settings › General.</li>
+<li>With Homebrew, the cask is now `mond`. `brew upgrade` moves the `mondo` cask across. Both the `mond` and `mondo` commands work.</li>
+</ul>
+<h3>Safer</h3>
+<ul>
+<li>Saved data is never silently lost. If a file can&#x27;t be read, Mond keeps a copy and writes what happened to ~/Library/Logs/Mond/data-errors.log.</li>
+<li>Helper tools that fail to start are logged instead of crashing Mond.</li>
+<li>A missing rules file no longer clears your desktop assignments.</li>
+</ul>
+<h3>Faster</h3>
+<ul>
+<li>The palette no longer waits for its app list if you open it just after launch.</li>
+<li>Settings pages draw less.</li>
+</ul>
+</body></html>

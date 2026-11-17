@@ -3,6 +3,15 @@
     <channel>
         <title>Mondo</title>
         <item>
+            <title>0.8.1</title>
+            <pubDate>Tue, 17 Nov 2026 14:25:13 -0700</pubDate>
+            <sparkle:version>406</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.8.1.zip" length="8002992" type="application/octet-stream" sparkle:edSignature="i26mZOb7qrwIDbxoi818GwEsvCm0loy+o70t5kDQ5y2QDOF/t8L/JMBE+63Vk7d9fBtIoRqr8CauZuvM32UxDw=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Tue, 17 Nov 2026 13:03:03 -0700</pubDate>
             <sparkle:version>401</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.7.0.zip" length="8714282" type="application/octet-stream" sparkle:edSignature="5hd+5LOE3+S0+BNqeX82d8Mh0Iv04ZfVtoxOWldAGVx9Lxu7SQs/wz5RCcy6GPX1wQAsAx/HAUuqbfV45nadAg=="/>
-        </item>
-        <item>
-            <title>0.6.1</title>
-            <pubDate>Mon, 16 Nov 2026 17:04:11 -0700</pubDate>
-            <sparkle:version>363</sparkle:version>
-            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.6.1.zip" length="8514901" type="application/octet-stream" sparkle:edSignature="kq09pRZqitIcZFmu2kq3590uJNXOZI4INXl9s3zTBQUQfnwZsfPfbELMKppwbHDorRW2qWEmnOd1+SBtRPgGBA=="/>
         </item>
     </channel>
 </rss>

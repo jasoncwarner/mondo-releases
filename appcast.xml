@@ -3,6 +3,15 @@
     <channel>
         <title>Mondo</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 16 Nov 2026 19:07:00 -0700</pubDate>
+            <sparkle:version>374</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.7.0.zip" length="8714282" type="application/octet-stream" sparkle:edSignature="5hd+5LOE3+S0+BNqeX82d8Mh0Iv04ZfVtoxOWldAGVx9Lxu7SQs/wz5RCcy6GPX1wQAsAx/HAUuqbfV45nadAg=="/>
+        </item>
+        <item>
             <title>0.6.1</title>
             <pubDate>Mon, 16 Nov 2026 17:04:11 -0700</pubDate>
             <sparkle:version>363</sparkle:version>
@@ -20,16 +29,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.6.0.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.6.0.zip" length="8494378" type="application/octet-stream" sparkle:edSignature="GNoOyxzokFqNGAbCexzib2YL711l09M/QuVMelmYFUF1GeuQuCIlPGlv0q6RSJl/aeI5N5/S1tH2MiO3KUXRAQ=="/>
-        </item>
-        <item>
-            <title>0.5.0</title>
-            <pubDate>Mon, 16 Nov 2026 14:35:25 -0700</pubDate>
-            <sparkle:version>346</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mondo-0.5.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mondo-0.5.0.zip" length="8465654" type="application/octet-stream" sparkle:edSignature="CCKCvrxiIXvpfwzQ+mXjpuL2FLMBYVdEGESeAubmZkKouKc7C9eXfw3rBJMIduaTDX2jBwq5OeW1Nhzdqb4rAw=="/>
         </item>
     </channel>
 </rss>

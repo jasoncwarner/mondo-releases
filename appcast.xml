@@ -3,6 +3,15 @@
     <channel>
         <title>Mondo</title>
         <item>
+            <title>0.9.13</title>
+            <pubDate>Thu, 26 Nov 2026 12:12:24 -0700</pubDate>
+            <sparkle:version>541</sparkle:version>
+            <sparkle:shortVersionString>0.9.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.9.13.zip" length="11056685" type="application/octet-stream" sparkle:edSignature="3t84yP2rb8cvNpGx5Fg68rzprXNPGmXzNpDYk9Wi/chpuAlQA0ELmfWez5fPxFwSwb1SwlWgkx/uAGRpLgGjAA=="/>
+        </item>
+        <item>
             <title>0.9.12</title>
             <pubDate>Thu, 26 Nov 2026 09:19:53 -0700</pubDate>
             <sparkle:version>533</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.9.11.zip" length="10945887" type="application/octet-stream" sparkle:edSignature="q2uSgfS+2Abi4+pNbxnPyRLX0FaKPvjwXd2M6pyVbh0CwvqAhYDcl6S9XFLNmp7DwnwBw251qnD6I8Fyd6bbDw=="/>
-        </item>
-        <item>
-            <title>0.9.10</title>
-            <pubDate>Wed, 25 Nov 2026 14:10:26 -0700</pubDate>
-            <sparkle:version>527</sparkle:version>
-            <sparkle:shortVersionString>0.9.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-0.9.10.zip" length="10942898" type="application/octet-stream" sparkle:edSignature="EGE6LWV1qoSD+2YuwgBp35wkiE4HywYd4OZy2c+WG9llf4OGCLGTgKAtiTZWextNyQ1JIoYVZRY6xQURhb12Bw=="/>
         </item>
     </channel>
 </rss>
